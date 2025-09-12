@@ -2,8 +2,8 @@
 const tutorialVideo = { id: 0, src: "SOMA_tutorial.mp4" };
 let hasUserInteracted = false;
 
-// Die anderen Videos
-const regularVideos = [
+// PartA_1
+/*const regularVideos = [
     { id: 1, src: "SOMA_audio_BEES.mp4" },
     { id: 2, src: "SOMA_audio_BULLYING.mp4" },
     { id: 3, src: "SOMA_audio_CANDLE.mp4" },
@@ -24,6 +24,31 @@ const regularVideos = [
     { id: 18, src: "SOMA_noau_BBQ.mp4" },
     { id: 19, src: "SOMA_noau_VR.mp4" },
     { id: 20, src: "SOMA_noau_JUICE.mp4" },
+    { id: 21, src: "SOMA_check.mp4"}
+];*/
+
+// PartA_2
+const regularVideos = [
+    { id: 1, src: "SOMA_noau_BEES.mp4" },
+    { id: 2, src: "SOMA_noau_BULLYING.mp4" },
+    { id: 3, src: "SOMA_noau_CANDLE.mp4" },
+    { id: 4, src: "SOMA_noau_CAR.mp4" },
+    { id: 5, src: "SOMA_noau_CLIMATE.mp4" },
+    { id: 6, src: "SOMA_noau_DATE.mp4" },
+    { id: 7, src: "SOMA_noau_DRUGS.mp4" },
+    { id: 8, src: "SOMA_noau_HEROES.mp4" },
+    { id: 9, src: "SOMA_noau_LAUNDRY.mp4" },
+    { id: 10, src: "SOMA_noau_MENTALHEALTH.mp4" },
+    { id: 11, src: "SOMA_audio_INTERIOR.mp4" },
+    { id: 12, src: "SOMA_audio_READING.mp4" },
+    { id: 13, src: "SOMA_audio_RENT.mp4" },
+    { id: 14, src: "SOMA_audio_SPORTDRINK.mp4" },
+    { id: 15, src: "SOMA_audio_SNEAKER.mp4" },
+    { id: 16, src: "SOMA_audio_TEA.mp4" },
+    { id: 17, src: "SOMA_audio_VACATION.mp4" },
+    { id: 18, src: "SOMA_audio_BBQ.mp4" },
+    { id: 19, src: "SOMA_audio_VR.mp4" },
+    { id: 20, src: "SOMA_audio_JUICE.mp4" },
     { id: 21, src: "SOMA_check.mp4"}
 ];
 
